@@ -42622,11 +42622,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 
-
-
- /*begin-variables custom-site-css*/.u-btn {	
-	-webkit-mask-image: radial-gradient(circle 10px at 0 0, transparent 0, transparent 20px, black 21px);
-}/*end-variables custom-site-css*/
  /*begin-variables base-font-size*/ 
  html { font-size: 15px; }
  /*end-variables base-font-size*/
